@@ -29,3 +29,11 @@ This repository contains my implementation of Neural Networks which I follow fro
 - [**Gradient Checking**](https://github.com/akarsh-saxena/Neural-Network-From-Scratch/tree/master/Artificial%20Neural%20Network/Gradient%20Checking)
   <br />
   Gradient checking to check whether the implementation of gradient descent algorithm is correct or not.
+  <br /><br />
+- [**Exponentially Weighted MA**](https://github.com/akarsh-saxena/Neural-Network-From-Scratch/blob/master/Artificial%20Neural%20Network/Optimization/Exponentially_Weighted_MA.ipynb)
+  <br />
+  Implementation of Exponentially Weighted Moving Average
+  <br /><br />
+- [**Mini Batch Gradient Descent**](https://github.com/akarsh-saxena/Neural-Network-From-Scratch/blob/master/Artificial%20Neural%20Network/Optimization/Mini_Batch_Gradient_Descent.ipynb)
+  <br />
+  Implementation of gradient descent with mini batches
