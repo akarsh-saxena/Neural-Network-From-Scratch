@@ -30,10 +30,18 @@ This repository contains my implementation of Neural Networks which I follow fro
   <br />
   Gradient checking to check whether the implementation of gradient descent algorithm is correct or not.
   <br /><br />
-- [**Exponentially Weighted MA**](https://github.com/akarsh-saxena/Neural-Network-From-Scratch/blob/master/Artificial%20Neural%20Network/Optimization/Exponentially_Weighted_MA.ipynb)
+- [**Exponentially Weighted MA (EWMA)**](https://github.com/akarsh-saxena/Neural-Network-From-Scratch/blob/master/Artificial%20Neural%20Network/Optimization/Exponentially_Weighted_MA.ipynb)
   <br />
-  Implementation of Exponentially Weighted Moving Average
+  Implementation of Exponentially Weighted Moving Average.
+  <br /><br />
+- [**EWMA in Gradient Descent**](https://github.com/akarsh-saxena/Neural-Network-From-Scratch/blob/master/Artificial%20Neural%20Network/Optimization/EWMA_in_GD.ipynb)
+  <br />
+  Implementation of Exponentially Weighted Moving Average in Gradient Descent.
   <br /><br />
 - [**Mini Batch Gradient Descent**](https://github.com/akarsh-saxena/Neural-Network-From-Scratch/blob/master/Artificial%20Neural%20Network/Optimization/Mini_Batch_Gradient_Descent.ipynb)
   <br />
   Implementation of gradient descent with mini batches
+  <br /><br />
+- [**Gradient Descent With Momentum**](https://github.com/akarsh-saxena/Neural-Network-From-Scratch/blob/master/Artificial%20Neural%20Network/Optimization/Gradient_Descent_With_Momentum.ipynb)
+  <br />
+  Implementation of Gradient Descent with Momentum.
